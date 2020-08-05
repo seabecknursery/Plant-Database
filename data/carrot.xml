@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plant>
+
+  <vegetable category="carrot">
+
+    <variety name="Amsterdam">
+        <variations>
+            <variation name="Amsterdam"/>
+            <variation name="Amsterdam Sweetheart"/>
+        </variations>
+        <taste value="Sweet"/>
+        <texture value="Crisp"/>
+        <synopsis>Amsterdam is finger-shaped with tender, orange roots.</synopsis>
+        <description></description>
+        <history>Nothing is known about the history of Amsterdam Forcing.</history>
+        <geography>Amsterdam Forcing is a western carrot, however it is unknown where it is originally from.</geography>
+        <maturity>
+            <days value="50"/>
+            <days value="150"/>
+        </maturity>
+        <sow></sow>
+        <harvest></harvest>
+        <ph>
+            <range value="6.5"/>
+            <range value="7.5"/>
+        </ph>
+        <depth>0-1/4 Inches</depth>
+        <pSpacing>2-4 Inches</pSpacing>
+        <rSpacing>12-18 Inches</rSpacing>
+    </variety>
+
+  </vegetable>
+
+</plant>
